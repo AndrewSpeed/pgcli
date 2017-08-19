@@ -13,6 +13,7 @@ Features:
 Internal changes:
 -----------------
 * Preliminary work for a future change in outputting results that uses less memory. (Thanks: `Dick Marinus`_)
+* Use less memory when formatting results for display (Thanks: `Dick Marinus`_).
 
 Bug Fixes:
 ----------
